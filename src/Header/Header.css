@@ -1,0 +1,9 @@
+.navbar{
+    background: linear-gradient(90deg, rgba(169, 195, 228, 0.788) 0%, rgb(141, 178, 224) 100%);
+}
+.Offcanvas{
+    background: linear-gradient( rgb(141, 178, 224) 0%, rgba(187, 202, 223, 0.788) 100%);
+}
+.logo{
+   padding-left: 100px;
+}
